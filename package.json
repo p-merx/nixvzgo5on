@@ -1,0 +1,15 @@
+{
+    "name": "nixvzgo5on",
+    "version": "0.0.0",
+    "description": "support in Atom",
+    "engines": {
+        "atom": "*"
+    },
+    "keywords": [
+        "nyromate",
+        "จุลินทรีย์",
+        "บำบัดน้ำเสีย"
+    ],
+    "repository": "https://github.com/p-merx/nixvzgo5on.git",
+    "license": "MIT"
+}
